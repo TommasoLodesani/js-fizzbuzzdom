@@ -1,0 +1,22 @@
+
+.square{
+    width: 100px;
+    height: 100px;
+    color: black;
+}
+
+.normal{
+    background: blue;
+}
+
+.fizz{
+    background-color: aqua;
+}
+
+.buzz{
+    background-color: yellow;
+}
+
+.fizzBuzz{
+    background-color: pink;
+}
